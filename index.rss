@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Clayton Parker's Git Achievements</title>
+<item><title>Apprentice Traveler (Level 1)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Master Carpenter (Level        1)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 <item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Banker (Level 1)</title><description>Join two or more development histories together with git merge.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
 <item><title>Socialite (Level 4)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Author (Level 4)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Architect (Level 2)</title><description>Created a new repository with git init.</description></item>
 </channel></rss>
