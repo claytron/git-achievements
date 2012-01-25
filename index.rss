@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Clayton Parker's Git Achievements</title>
+<item><title>Apprentice Archivist (Level 1)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 <item><title>Apprentice Collector (Level 3)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Banker (Level 1)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Architect (Level 5)</title><description>Created a new repository with git init.</description></item>
 <item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Seamstress (Level 1)</title><description>amended a commit with git commit --amend.</description></item>
 </channel></rss>
