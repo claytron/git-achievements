@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Clayton Parker's Git Achievements</title>
+<item><title>Apprentice Banker (Level 3)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Miller (Level 4)</title><description>Add only part of a file to the stage 185 times with git add -p.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Butcher (Level 2)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Butcher (Level 1)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Traveler (Level 3)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
-<item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
 </channel></rss>
