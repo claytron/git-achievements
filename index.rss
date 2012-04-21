@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Clayton Parker's Git Achievements</title>
+<item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Master Product Manager (Level 7)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Apprentice Butcher (Level 3)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 </channel></rss>
