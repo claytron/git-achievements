@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Clayton Parker's Git Achievements</title>
+<item><title>Master Product Manager (Level 8)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
 <item><title>Butcher (Level 5)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Tree Trimmer (Level 2)</title><description>Rewrite branches with git filter-branch</description></item>
@@ -19,5 +20,4 @@
 <item><title>Collector (Level 4)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Butcher (Level 4)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Pilgrim (Level 1)</title><description>Performed a rebase using git rebase --onto.</description></item>
-<item><title>Apprentice Blacksmith (Level 2)</title><description>Created a branch using git checkout -b.</description></item>
 </channel></rss>
