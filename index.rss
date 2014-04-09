@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Clayton Parker's Git Achievements</title>
+<item><title>Apprentice Fisherman (Level 3)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Apprentice Fisherman (Level 2)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Presenter (Level 6)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Miller (Level 5)</title><description>Add only part of a file to the stage 524 times with git add -p.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Master Stone Mason (Level 8)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
 </channel></rss>
