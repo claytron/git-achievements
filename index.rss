@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Clayton Parker's Git Achievements</title>
+<item><title>Master Product Manager (Level 9)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Fisherman (Level 4)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Apprentice Fisherman (Level 3)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Apprentice Fisherman (Level 2)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Tree Trimmer (Level 1)</title><description>Rewrite branches with git filter-branch</description></item>
 <item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Master Stone Mason (Level 8)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
