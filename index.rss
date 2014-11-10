@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Clayton Parker's Git Achievements</title>
+<item><title>Banker (Level 6)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Butcher (Level 6)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Master Socialite (Level 10)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Master Product Manager (Level 9)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Tree Trimmer (Level 2)</title><description>Rewrite branches with git filter-branch</description></item>
 <item><title>Merchant (Level 6)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Master Socialite (Level 9)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Tree Trimmer (Level 1)</title><description>Rewrite branches with git filter-branch</description></item>
 </channel></rss>
