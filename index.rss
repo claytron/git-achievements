@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Clayton Parker's Git Achievements</title>
+<item><title>Master Merchant (Level 7)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Master Presenter (Level 7)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Banker (Level 6)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Butcher (Level 6)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
 <item><title>Butcher (Level 5)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Tree Trimmer (Level 2)</title><description>Rewrite branches with git filter-branch</description></item>
-<item><title>Merchant (Level 6)</title><description>Added an external repository with git remote add.</description></item>
 </channel></rss>
