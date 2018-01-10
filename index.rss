@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Clayton Parker's Git Achievements</title>
+<item><title>Apprentice Banker (Level 3)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Apprentice Product Manager (Level 2)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Stone Mason (Level 2)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
