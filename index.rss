@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Clayton Parker's Git Achievements</title>
+<item><title>Apprentice Product Manager (Level 3)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Fisherman (Level 3)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
 <item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Miller (Level 1)</title><description>Add only part of a file to the stage 43 times with git add -p.</description></item>
 <item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Presenter (Level 3)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 </channel></rss>
