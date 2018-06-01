@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Clayton Parker's Git Achievements</title>
+<item><title>Apprentice Butcher (Level 3)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Miller (Level 4)</title><description>Add only part of a file to the stage 340 times with git add -p.</description></item>
 <item><title>Product Manager (Level 5)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Hunter (Level 1)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Master Stone Mason (Level 7)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Fisherman (Level 1)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
-<item><title>Presenter (Level 5)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 </channel></rss>
