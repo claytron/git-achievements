@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Clayton Parker's Git Achievements</title>
+<item><title>Apprentice Merchant (Level 2)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Master Presenter (Level 8)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 175 times with git add -p.</description></item>
 <item><title>Apprentice Butcher (Level 2)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Presenter (Level 6)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
-<item><title>Apprentice Butcher (Level 1)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 </channel></rss>
